@@ -1,15 +1,4 @@
-# School-Project
-## 📃 First Hackathon Project 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-  </tr>
-</table>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IncredibleKaran&theme=github_dark) |
-| :-: | :-: |
-![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif) | ![Banner](https://pa1.aminoapps.com/6914/0b02b8eea6844d7ed54ba76f9dca9f9985605247r1-256-256_hq.gif)
-
-## 📃 Documentation
+## 📃 School-Project
 
 Welcome to HealthHive, an open-source platform for AI-powered healthcare innovation and solutions!
 
@@ -57,13 +46,3 @@ Before cloning/forking this project, make sure you have the following tools inst
 4. Navigate to the project directory cd HealthHive
 5. Install the dependencies npm i
 6. Run the project npm start
-
-## Contributors
-
-[//]: contributor-faces
-
-<a href="https://github.com/IncredibleKaran"><img src="https://avatars.githubusercontent.com/u/170717826?s=400&u=62dc466d54935f34ecc9f8d66f920d4c225bdd94&v=4" title="Karan" width="80" height="80"></a>
-<a href="https://github.com/Dhvanitmonpara"><img src="https://avatars.githubusercontent.com/u/143581064?v=4" title="Dhvanit" width="80" height="80"></a>
-<a href="https://github.com/Sahil-Gupta584"><img src="https://avatars.githubusercontent.com/u/134826929?v=4" title="Sahil" width="80" height="80"></a>
-
-[//]: contributor-faces
