@@ -16,7 +16,7 @@ Key Features:
 
 HealthHive, healthcare AI chatbot model that revolutionizes the way we approach medical care and support. Our cutting-edge technology empowers individuals to take control of their health and wellness, providing instant access to personalized guidance, resources, and connections to healthcare professionals.
 
-Our AI-powered chatbot is designed to simulate human-like conversations, offering a compassionate and non-judgmental space for users to discuss their health concerns, ask questions, and receive tailored advice. With a vast knowledge base and machine learning capabilities, our chatbot stays current with the latest medical research and guidelines, ensuring users receive accurate and reliable information.
+Our AI-powered chatbot is designed to simulate human-like conversations, offering a compassionate and non-judgmental space for users to discuss their health concerns, ask questions, and receive tailored advice. With a vast knowledge base and machine learning capabilities, latest medical research and guidelines, ensuring users receive accurate and reliable information.
 
 We prioritize user experience, designing our chatbot to be intuitive, accessible, and confidential. This ensures a comfortable and secure experience for all users. By harnessing AI technology, we aim to bridge the gap in healthcare access, provide emotional support, and foster a community of empowered individuals taking charge of their health.
 
