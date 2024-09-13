@@ -1,6 +1,6 @@
 ## 📃 School-Project
 
-Welcome to HealthHive, an open-source platform for AI-powered healthcare innovation and solutions!
+Welc
 
 Key Features:
 
