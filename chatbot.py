@@ -1,7 +1,7 @@
 #Karan Lalwani 
 #Class 11 Commerce
-Basic Chat Bot Design For School
-"""
+#Basic Chat Bot Design For School
+
 from tkinter import *
 root = Tk()
 root.title("School ChatBot By KaranLalwani")
