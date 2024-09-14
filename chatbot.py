@@ -1,5 +1,4 @@
 #Karan Lalwani 
-#Class 11 Commerce
 #Basic Chat Bot Design For School
 
 from tkinter import *
